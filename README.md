@@ -1,0 +1,55 @@
+# Kattis-Solutions
+This repository holds solutions to Kattis coding problems.
+
+List of problem Names:
+
+-Aaah!
+-Above Average
+-A Different Problem
+-Apaxiaaaaaaaaaaaans!
+-Autori
+-Bing It On
+-Booking a Room
+-Closing the Loop
+-Cold-puter Science
+-Cover up
+-Death Knight Hero
+-Filip
+-FizzBuzz
+-Grass Seed Inc.
+-Greedily Increasing Subsequence
+-Hello World!
+-Help a PhD candidate out!
+-Hissing Microphone
+-I've Been Everywhere, Man
+-Judging Moose
+-Ladder
+-Mirror Images
+-Nasty Hacks
+-No Duplicates
+-Number Fun
+-Odd Gnome
+-Oddities
+-One Chicken Per Person!
+-Paul Eigon
+-Pizza Crust
+-Planina
+-Pot
+-Quadrant Selection
+-Quick Estimates
+-R2
+-Red Rover
+-Reversed Binary Numbers
+-Server
+-Seven Wonders
+-Sibice
+-Simon Says
+-Simon Says
+-Simple Addition
+-Solving for Carrots
+-Stacking Cups
+-Stuck In A Time Loop
+-Take Two Stones
+-Tarifa
+-Trik
+-Yin and Yang Stones
