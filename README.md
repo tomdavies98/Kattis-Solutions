@@ -1,6 +1,6 @@
 # Kattis-Solutions
 This repository holds solutions to Kattis coding problems.
-
+(tomdaviesdub@gmail.com --> email associated with Kattis, Name on Kattis: Tom Davies)
 List of problem Names:
 
 -Aaah!
